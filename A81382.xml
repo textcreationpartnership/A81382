@@ -1,0 +1,585 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The devils cabinet-councell. Discovered or the mistery and iniquity of the good old cause. Laying open all the plots and contrivances of O. Cromwell, and the Long Parliament, in order to the taking avvay the life of his late Sacred Maiesty of blessed memory.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 31 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81382</idno>
+            <idno type="STC">Wing D1225</idno>
+            <idno type="STC">Thomason E2111_2</idno>
+            <idno type="STC">ESTC R212654</idno>
+            <idno type="EEBO-CITATION">99871248</idno>
+            <idno type="PROQUEST">99871248</idno>
+            <idno type="VID">123653</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 123653)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 241:E2111[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The devils cabinet-councell. Discovered or the mistery and iniquity of the good old cause. Laying open all the plots and contrivances of O. Cromwell, and the Long Parliament, in order to the taking avvay the life of his late Sacred Maiesty of blessed memory.</title>
+               </titleStmt>
+               <extent>[12], 45, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Brugis for Hen. Marsh at the Princes Armes in Chancery-lane neer Fleet-street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Final leaves = advertisement.</note>
+                  <note>Annotation on Thomason copy: "July"; "July 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Cromwell, Oliver, 1599-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Puritan Revolution, 1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:123653:1" rendition="simple:additions"/>
+            <p>THE DEVILS Cabinet-Councell. DISCOVERED, OR THE MISTERY and INIQUITY OF THE <hi>Good old Cauſe.</hi>
+            </p>
+            <p>Laying open all the Plots and Contrivances of <hi>O. CROMWELL,</hi> and the Long PARLIAMENT, In order to the taking avvay the Life of his late Sacred MAIESTY of Bleſſed Memory.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Brugis</hi> for <hi>Hen. Marſh</hi> at the <hi>Princes Armes</hi> in <hi>Chancery-lane</hi> neer <hi>Fleet-ſtreet.</hi> 1660.</p>
+         </div>
+         <div type="descriptions_of_people">
+            <pb facs="tcp:123653:2"/>
+            <pb facs="tcp:123653:2"/>
+            <head>THE DEVILS Cabinet-Counſell. DISCOVERED.</head>
+            <p>THe Lord <hi>Liſle</hi> a very godly Perſon, yet led away now and then by the Spirit to cool his Reins in <hi>Bloomsbury,</hi> where he was twice diſcovered to be very civilly uſed in regard of his Authori<g ref="char:EOLhyphen"/>ty; he had given the Maſter<g ref="char:EOLhyphen"/>ſhips
+<pb facs="tcp:123653:3"/>of St. <hi>Croſſes,</hi> valued at 800 <hi>l. per annum.</hi>
+            </p>
+            <p>
+               <hi>I Gourdon</hi> a Lunatick, and bitter-tongu'd Schiſmatick.</p>
+            <p>Lord <hi>Gray</hi> of <hi>Grooby,</hi> a Saint, who had nothing but <hi>Holmby</hi> Mannor-houſe and Parks for his ſhare.</p>
+            <p>
+               <hi>Humphrey Edwards</hi> one that waited on the King when he demanded the five Members, and whoſe election was voted void by a Committee.</p>
+            <p>
+               <hi>Nich. Love</hi> one of the ſix Clerks in Mr. <hi>Penruddock</hi>'s place.</p>
+            <p>
+               <hi>Ben. Valentine</hi> five thouſand pound the better for the times.</p>
+            <p>
+               <hi>Gil. Millington</hi> the Church
+<pb facs="tcp:123653:3"/>Snuffers, one that deſires no better trade then ſcandalous Miniſters.</p>
+            <p>Sir <hi>Hardreſs Waller,</hi> once a Cavalier, then a Presbyterian, and afterwards any thing.</p>
+            <p>Temperate Mr. <hi>Chaloner.</hi>
+            </p>
+            <p>
+               <hi>Skippon</hi> once a poor Waggo<g ref="char:EOLhyphen"/>ner, now in a better condition.</p>
+            <p>
+               <hi>Saloway</hi> a ſmart prating Grocer's Apprentice, newly ſet up for himſelf.</p>
+            <p>
+               <hi>Okey</hi> a good ſturdy Dray<g ref="char:EOLhyphen"/>man.</p>
+            <p>
+               <hi>Ludlow</hi> a Leveller.</p>
+            <p>Smiling Sir <hi>James Harring<g ref="char:EOLhyphen"/>ton.</hi>
+            </p>
+            <p>
+               <hi>Waite,</hi> one that thriv'd ſo well while he was Governour
+<pb facs="tcp:123653:4"/>of <hi>Burleigh,</hi> that he bought 500 <hi>l. per annum,</hi> that was not able to buy 5 <hi>l.</hi> before.</p>
+            <p>Sir <hi>Henry Mildmay,</hi> the Mir<g ref="char:EOLhyphen"/>rour of Gratitude, once the Kings Ieweller, afterwards his Iudge.</p>
+            <p>
+               <hi>Heveningham</hi> a ſlabbering Epicure.</p>
+            <p>
+               <hi>Scot</hi> a Brewers Clerk, Ma<g ref="char:EOLhyphen"/>ſter Purſuivant to the Com<g ref="char:EOLhyphen"/>mom-wealth.</p>
+            <p>
+               <hi>Martin,</hi> a beaſtly, profuſe, and extravagant Whoremaſter.</p>
+            <p>
+               <hi>Disborow</hi> a Clown without fear or wit.</p>
+            <p>Coll. <hi>Downes,</hi> a meer cipher.</p>
+            <p>Coll. <hi>Moore</hi> Coll. of the Parliaments Guards, he had
+<pb facs="tcp:123653:4"/>the benefit of the paſſes out of <hi>London.</hi>
+            </p>
+            <p>
+               <hi>Will Say,</hi> a famous Lawyer.</p>
+            <p>
+               <hi>Iſaak Penington</hi> twice broke, and therefore the Parliament gave him 7000 <hi>l.</hi> to recruit him.</p>
+            <p>Lord <hi>Mounſon,</hi> a pitiful drivelling henpeckt Lord.</p>
+            <p>
+               <hi>Philip</hi> Lord <hi>Liſle,</hi> famous for his ſilence; men wonder what he did among them, un<g ref="char:EOLhyphen"/>leſs it were becauſe his Father kept him ſhort.</p>
+            <p>
+               <hi>Blackſton</hi> a poor Shopkeep<g ref="char:EOLhyphen"/>er in <hi>Newcaſtle,</hi> made Execu<g ref="char:EOLhyphen"/>tor to Sir <hi>John Fenner,</hi> truſted with 6000 <hi>l.</hi> for charitable u<g ref="char:EOLhyphen"/>ſes, and was ſued in Chancery
+<pb facs="tcp:123653:5"/>to perform the Will, but got himſelf return'd Burges for <hi>Newcaſtle;</hi> had 3000 <hi>l.</hi> given out of another Gentlemans eſtate, and as much as made it up 12000 <hi>l.</hi> out of the eſtate of another Gentleman.</p>
+            <p>
+               <hi>Dixwell,</hi> once better known in <hi>Kent</hi> then truſted.</p>
+            <p>
+               <hi>Greg. Clements</hi> rich in Bi<g ref="char:EOLhyphen"/>ſhops Lands, once poor e<g ref="char:EOLhyphen"/>nough.</p>
+            <p>Sir <hi>Will. Brereton,</hi> a good Trencher-man, and Biſhop of <hi>Croyden.</hi>
+            </p>
+            <p>Coll. <hi>Berkſtead,</hi> the merci<g ref="char:EOLhyphen"/>ful Lieutenant of the Tower.</p>
+            <p>Coll. <hi>Hewſon,</hi> the Commit<g ref="char:EOLhyphen"/>tee of Safety's Apprentice killer.</p>
+            <pb facs="tcp:123653:5"/>
+            <p> 
+               <hi>Cornel. Holland,</hi> once a Link<g ref="char:EOLhyphen"/>boy, preferred by the King to the Green-cloth, a great Knave.</p>
+            <p>
+               <hi>Tichborn,</hi> a man well known in the City.</p>
+            <p>Coll. <hi>Will. Purefoy,</hi> he hid himſelf in a barley field when he ſhould have been fighting, for which a Water-man, that had been his Souldier, refus'd to carry him.</p>
+            <p>Sir <hi>Will. Conſtable,</hi> he ſold his Lands to Sir <hi>Marmaduke Langdale</hi> for 15000 <hi>l.</hi> but the Parliament gave them him again.</p>
+            <p>Sir <hi>Miles Leveſey,</hi> Plunder Maſter General of <hi>Kent.</hi>
+            </p>
+            <pb facs="tcp:123653:6"/>
+            <p> 
+               <hi>Henry Smith,</hi> made one of the ſix Clerks.</p>
+            <p>Frantick Sir <hi>Harry Vane.</hi>
+            </p>
+            <p>Hair-brain'd <hi>Heſllerig.</hi>
+            </p>
+            <p>
+               <hi>Dan. Blagrave,</hi> well known at <hi>Reading.</hi>
+            </p>
+            <p>
+               <hi>Miles Corbet,</hi> once 3000 <hi>l.</hi> in debt more then he was worth; he got well by ſcandalous Miniſters.</p>
+            <p>
+               <hi>Harvey</hi> Biſhop of <hi>Fulham,</hi> though not ſo by inheritance.</p>
+            <list>
+               <head>Illegally elect<g ref="char:EOLhyphen"/>ed by colour of the Nevv Seal.</head>
+               <item>Coll. <hi>Norton.</hi> 
+               </item>
+               <item>
+                  <hi>Rowl. Wilſon.</hi> 
+               </item>
+               <item>Coll. <hi>I. Hutch<g ref="char:EOLhyphen"/>inſon.</hi> 
+               </item>
+            </list>
+            <p>Coll. <hi>Rigby</hi> Governour of <hi>Bolton.</hi>
+            </p>
+            <p>
+               <hi>Anthony Stapely.</hi>
+            </p>
+            <pb facs="tcp:123653:6"/>
+            <p> 
+               <hi>Valentine Walton</hi> a Knave and a Cuckold, or a Cuckoldly Knave which you pleaſe.</p>
+            <p>Coll. <hi>Boſwell,</hi> Sir <hi>Arthur Heſllerig</hi>'s Friend by his Daughters meanes.</p>
+            <p>
+               <hi>Auguſtine Garland, Peters</hi>'s Pot-companion.</p>
+            <p>
+               <hi>Bradſhaw,</hi> the impudent brazen-fac'd Preſident.</p>
+            <p>
+               <hi>Cromwell,</hi> Bell-wether to the Flock.</p>
+            <p>
+               <hi>Ireton,</hi> his boſome fellow worker in iniquity.</p>
+            <p>Maj. Gen. <hi>Hariſon,</hi> chief Holder forth to the fift Mo<g ref="char:EOLhyphen"/>narchy-men.</p>
+            <p>
+               <hi>Ven,</hi> the broken Silk-man, that govern'd <hi>Windſor</hi> Caſtle.</p>
+            <pb facs="tcp:123653:7"/>
+            <p> Coll. <hi>Hammond,</hi> he had a thouſand pounds and five hundred pounds <hi>per annum</hi> given him for his good ſer<g ref="char:EOLhyphen"/>vice.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:123653:7"/>
+            <head>THE DEVILS Cabinet-Counſell. DISCOVERED.</head>
+            <p>THe Independent Faction being become conſiderable, their firſt deſign was to monopolize all power into their hands.</p>
+            <p>This was effected firſt by daſhing the Earl of <hi>Eſſex</hi> and Sir <hi>William Waller</hi> one againſt another; which was eaſily done by taking hold of their ſeverall misfortunes, the one at <hi>Liſlethiel</hi> in <hi>Cornwall,</hi> the other at the <hi>Deviſes</hi> in <hi>Wiltſhire.</hi> My Lord of
+<pb n="2" facs="tcp:123653:8"/>
+               <hi>Mancheſter</hi> alſo being a Lord, and therefore not to be confided in, was undermin'd and accus'd by <hi>Cromwell</hi> of high Crimes, and ſo diſcarded.</p>
+            <p>Then was the Army new modell'd, and under Sir <hi>Thomas Fairfax Cromwell</hi> got the ſole command of the Army. He was no ſoo<g ref="char:EOLhyphen"/>ner in power, but by his own diligence &amp; the help of his Faction, he endeavours to make himſelf famous and popular, by taking to himſelf the honour of other mens atchieve<g ref="char:EOLhyphen"/>ments. To this purpoſe the News books are taught to ſpeak no language but <hi>Crom<g ref="char:EOLhyphen"/>vvell</hi> and his party, and to be ſilent in ſuch actions wherein he could claim no ſhare. That the Army might be ſutable to him and his deſigns, carried on without inter<g ref="char:EOLhyphen"/>ruption, all pretences of ſcandals and crimes are laid hold of at the Councels of Warre to remove the Presbyterian party, that the Independents and Sectaries might be let into their rooms.</p>
+            <p>The next ſtudy of <hi>Cromwell</hi> was how to make this Army become his creatures; which he thus contriv'd: The two Houſes, in a full and free Parliament had ordained the diſbanding of the Army, <hi>Cromwell</hi> knowing how much this would be againſt
+<pb n="3" facs="tcp:123653:8"/>the Armies will, put the Houſes again upon paſſing this Ordinance, <q>Proteſting in the preſence of Almighty God, before whom he ſtood, that he knew the Army would disband, and lay down their Armes at their dore whenſoever they ſhould com<g ref="char:EOLhyphen"/>mand:</q> when at the ſame time he had his Agitators animating the Army againſt the major part of the Houſe, under the no<g ref="char:EOLhyphen"/>tion of men that ſought their ruine, and making traiterous comments upon the Or<g ref="char:EOLhyphen"/>dinance. He knew the Army hated no<g ref="char:EOLhyphen"/>thing more then disbanding, and therefore would not be a little enraged againſt the promoters thereof: and thus by cauſing fears and jealouſies in the Army, he eaſily provok'd them to mutiny againſt the Par<g ref="char:EOLhyphen"/>liament: By this mutiny having made them ſure to his own intereſt, <hi>Cromwell</hi> leaves the Parliament, not daring to truſt himſelf among them, where now both he and his Son <hi>Ireton</hi> publickly joyn with the Army at <hi>New-Market</hi> in trayterous En<g ref="char:EOLhyphen"/>gagements, Declarations, Remonſtrances and Petitions, pend by <hi>Cromwell</hi> himſelf, tending altogether to nothing but ſedition, whereby the Army and the Parliament were eaſily rendered odious to one another.</p>
+            <pb n="4" facs="tcp:123653:9"/>
+            <p> Having thus debauch'd the Army, he plotted in his own Chamber how to ſecure the Garriſon, Magazine, and train of Artil<g ref="char:EOLhyphen"/>lery at <hi>Oxford,</hi> and ſurpriſe the Kings perſon at <hi>Holmby,</hi> which was done by his Inſtru<g ref="char:EOLhyphen"/>ment Cornet <hi>Ioyce,</hi> with a commanded par<g ref="char:EOLhyphen"/>ty of Horſe: by which action <hi>Cromwell</hi> now thought himſelf ſo ſecure, that when <hi>Ioyce,</hi> giving him an account of what he had done, told him, that he had now the King in his power; <hi>Cromwell</hi> repli'd, Then have I the Parliament in my pocket. It was not for him publickly to own ſo impudent an act, therefore he had recourſe to his wonted diſſimulation, proteſting in the ſight of God his ignorance in that buſineſs both to the King and Parliament, adding to his Prote<g ref="char:EOLhyphen"/>ſtation an Execration upon his Wife and Children.</p>
+            <p>Having ſo farre proſper'd in his deſign, as to get the King into his clutches, the next contrivance was to get the Parliament into his power.</p>
+            <p>This was to be effected by purging both Houſes, ſo that there might be no Members here, but what ſhould be abſolutely of <hi>Cromwels</hi> Faction; to which purpoſe they ſend firſt a confuſed impeachment againſt
+<pb n="5" facs="tcp:123653:9"/>eleven of the Members, who thereupon modeſtly withdrew, to free the Parliament from ſuch danger as they ſhould incurre by protecting them.</p>
+            <p>But while theſe things were acting, <hi>Crom<g ref="char:EOLhyphen"/>well</hi> finding he could not compaſſe what he intended againſt the Parliament, but that he muſt make the City his enemies, caſts about how to cheat the Countrey, it being dangerous to have both City and Countrey his enemies at that time. Agents are there<g ref="char:EOLhyphen"/>fore imploy'd to ſpread Books and Pam<g ref="char:EOLhyphen"/>phlets about the Kingdom wherein parti<g ref="char:EOLhyphen"/>cular notice is taken of the preſſures and grievances of the Nation, courting them to neglect the King, and the Parliament, as unable to relieve them, and to make their addreſſes to the Army, who had it in their hands onely to reſtore the King, uphold the Parliament, and give them their Freedoms and Liberties, and to take away from them all Taxes and Exciſes: by theſe and the like pretences they deceived the people ſo far, as to make them patiently bear the burthen of free quarter, and to make Addreſſes to the Army for free quar<g ref="char:EOLhyphen"/>ter.</p>
+            <pb n="6" facs="tcp:123653:10"/>
+            <p> Having Iull'd the people into a ſleep, they now ſeek how to quarrell with the City. They had withdrawn their quarters ſome thirty miles from <hi>London,</hi> in a pretended obedience to the Parliament (of which pretended example of their ſubmiſſion, they made ſingular uſe againſt all objecti<g ref="char:EOLhyphen"/>ons) but finding their deſigns retarded both in City and Parliament, by the re<g ref="char:EOLhyphen"/>mainder of that party which they had left; they muſt therefore find a quarrel to march againſt the City, to give the Houſes a ſtron<g ref="char:EOLhyphen"/>ger purge then they had formerly done. Hereupon the Army demands the City Militia, and had it granted by a packt com<g ref="char:EOLhyphen"/>pany of the lower Houſe, when moſt of the Members were abſent. The City petition for their former Militia; and to ſecond their Maſters, many of the Apprentices came down with another of theirs: it was not long ere <hi>Cromwell,</hi> who watch'd for this opportunity, had his Agents among them, to keep up the Ryot, and increaſe it as much as in them lay, particularly one <hi>High<g ref="char:EOLhyphen"/>land</hi> was obſerved more active then all the reſt. This was cunningly contriv'd to en<g ref="char:EOLhyphen"/>creaſe the ſdandall upon the City.</p>
+            <pb n="7" facs="tcp:123653:10"/>
+            <p> The Army was now upon their march to <hi>London,</hi> whereupon the ſpeaker and a<g ref="char:EOLhyphen"/>bout forty Members more, having left a<g ref="char:EOLhyphen"/>bout one hundred and forty ſitting in the Houſe, ſled to the Army. It is thought that what the Speaker did, proceeded from cer<g ref="char:EOLhyphen"/>tain ſtrong Threats and Menaces of <hi>Crom<g ref="char:EOLhyphen"/>well</hi> and <hi>Ireton,</hi> for that he had ſolemnly profeſſed a day or two before to Sir <hi>Ralph Aſhton</hi> and others, <q>that he ſcorned to do ſuch a baſe unjuſt and dishonourable act, and that he would rather die in his chair.</q>
+            </p>
+            <p>Hereupon, the remaining Members chooſe a new ſpeaker, and proceed to act one way, while the Army with both the fugitive Speakers, and the ſugitive Mem<g ref="char:EOLhyphen"/>bers vote another, ſigning engagements to live and die with the Army.</p>
+            <p>The Army were ſo overleavend with this engagement, that they ſend out War<g ref="char:EOLhyphen"/>rants to the Trained Bands to march with them againſt the City. The City hearing of their approch, ſent Commiſſioners ſun<g ref="char:EOLhyphen"/>dry times to mediate an accord; but the Army would give them no better termes then theſe, that they ſhould yield to deſert both Houſes and the impeached Members,
+<pb n="8" facs="tcp:123653:11"/>that they ſhould call in their Declarations, relinquiſh the Militia, deliver up their forts to the Army, with the Tower of <hi>London,</hi> and the Magazines there; disband all their Forces, and turn the Reformadoes out of the line, receive ſuch guards of horſe and foot as the Army ſhould appoint, demoliſh their works, and ſuffer the Army to march in triumph through the City. All which was ſuddainly and diſhonourably yielded to, ſo great was the undermining ſtrength of <hi>Cromwels</hi> party to weaken the hands of all his opponents.</p>
+            <p>This being effected, the fugitive Mem<g ref="char:EOLhyphen"/>bers were brought agin into the Houſe. And now we muſt look upon the Army and Par<g ref="char:EOLhyphen"/>liament acting and conſulting together. They put into imployments none but men of their own faction, that they may have all in their own hands; they alter and divide the Militia of <hi>London,</hi> ſetting up particular Militia's at <hi>Weſtminſter, Southwark,</hi> and the Hamlets, to make them weaker by ſuch a diviſion, and demoliſh the lines of Commu<g ref="char:EOLhyphen"/>nication and fright many more members from the Houſe partly by threats, and part<g ref="char:EOLhyphen"/>ly by falſe impeachments. Then they de<g ref="char:EOLhyphen"/>clare all void which the Parliament had
+<pb n="9" facs="tcp:123653:11"/>done in their abſence; and when many of the Commons were refractory, and denyed to paſs this ordinance, they were either ur<g ref="char:EOLhyphen"/>ged to it with threats, or forced to depart the houſe, Sir <hi>Arthur Haſlerig</hi> telling them ſome heads muſt fly off, and that he feared the Parliament of <hi>England</hi> could not ſave the Kingdome, but they muſt look another way for ſafety: That they could not ſatisfie the Army but by declaring all void from the beginning. In which words he was ſecon<g ref="char:EOLhyphen"/>ded by <hi>Vane, Prideaux, Gourdon, Mildmay, Scott</hi> and <hi>Holland,</hi> whom we muſt hence<g ref="char:EOLhyphen"/>forward look upon as the Protectors grea<g ref="char:EOLhyphen"/>teſt inſtruments. And becauſe this did not wholly effect the deſign, they produce a ſcandalous letter from the Army, wherein the members that ſate while the two Spea<g ref="char:EOLhyphen"/>kers were abſent, were called pretended Members, and threatned that if they would not give their aſſents topaſs the ordinance, they ſhould ſit in the Houſe at their peril, for the Army would take them as Priſoners of war, and trye them at a Counſel. Thus the Members being frighted away, the next day in a very thin aſſembly of <hi>Olivers</hi> crea<g ref="char:EOLhyphen"/>tures the ordinance paſſed: and thus had <hi>Cromwel</hi> and his few conſpirators what ſo
+<pb n="10" facs="tcp:123653:12"/>far they ſought for, (that is to ſay) the whole power of the Parliament and Army.</p>
+            <p>This being done ſeveral accuſations of high Treaſons were brought againſt the Earles of <hi>Suffolk, Lincoln, Middleſex,</hi> the Lords <hi>Berkley, Willoughby, Hunſdon</hi> and <hi>Maynard,</hi> they were committed to the Tower, that ſo thoſe Lords that had engaged with the Army might have their houſe to themſelves: Several Petitions were like<g ref="char:EOLhyphen"/>wiſe exhibited to the Houſes, bearing theſe titles, to the Lords and Commons in Parli<g ref="char:EOLhyphen"/>ament aſſembled, diſtinct from the Lords and Commons that ſate in the abſence of the two Speakers, and others which Petitio<g ref="char:EOLhyphen"/>ned againſt divers Members ſitting <q>preten<g ref="char:EOLhyphen"/>ded to be enemies to godlineſs, uſurpers of Parliamentary authority, &amp; ſuch as en<g ref="char:EOLhyphen"/>deavoured to bring in the King upon his own tearms.</q> Theſe Petitions were all pen'd by the <hi>Cromwellian</hi> faction, to put the two parties that yet remaind in the Houſe into heights the one againſt the other, to make the leſſer party in the Houſe, <hi>viz.</hi> the ingaged party of fifty nine, to expel the o<g ref="char:EOLhyphen"/>ther conſiſting of 140. that the Houſe might below, and baſe in the opinion of the people, and all things come into the pow<g ref="char:EOLhyphen"/>er of the ſword.</p>
+            <pb n="11" facs="tcp:123653:12"/>
+            <p> Then were the Lord Mayor, and ſeveral Aldermen, and Citizens impeached alſo of high Treaſon, and ſent likewiſe to the Tower, and their own creatures placed in their ſteads.</p>
+            <p>And now <hi>Cromwel</hi> annimated by theſe ſucceſſes, begins to think of contriving that horrid murther which he afterwards brought to paſs. Firſt, that he may not want ſtrength, the Army is dayly recruted without any authority; then is the Parlia<g ref="char:EOLhyphen"/>ment put upon it to ſend the four dethroa<g ref="char:EOLhyphen"/>ning bills to the King, of which that of ſet<g ref="char:EOLhyphen"/>ling the Militia in the hands of the Army-party, and the bill for adjourning both Hou<g ref="char:EOLhyphen"/>ſes to any other place, were the chief. When the Kings anſwer to the ſaid bills came to be debated, Sir <hi>Thomas Wroth</hi> had his one to ſpeak high, and feel the pulſe of the Houſe, who did it to this effect. <q>That <hi>Bedlam</hi> was appointed for madmen, and <hi>Tophet</hi> for Kings, that our Kings of late had carried themſelves as if they were fit for no place but <hi>Bedlam,</hi> and that there<g ref="char:EOLhyphen"/>fore his humble motion ſhould conſiſt of three parts. To ſecure the King and keep him cloſe within ſome inland Gar<g ref="char:EOLhyphen"/>riſon with ſure guards. To draw up Arti<g ref="char:EOLhyphen"/>cles
+<pb n="12" facs="tcp:123653:13"/>of impeachment againſt him. And laſtly, to lay by and ſettle the Kingdome without him, for that he cared not what form of Government they ſet up, ſo it were not by Kings and Divels.</q>
+            </p>
+            <p>
+               <hi>Ireton</hi> ſeconds this ſpeech, pretending to ſpeak the ſenſe of the Godly party, telling he Houſe <q>That the King had denied ſafety and protection to his people, by de<g ref="char:EOLhyphen"/>nying the four bills, that ſubjection to him, was in lieu of his protection, which being denied they might well deny any more ſubjection to him, and ſettle the Kingdome without him; that it was now expected after ſo long patience, that they ſhould ſhew their reſolution, and not de<g ref="char:EOLhyphen"/>ſert thoſe valient men that had engaged for them beyond all poſſibility of retreat, and would never forſake the Parliament, unleſs the Parliament forſook them firſt.</q> After ſome debate, <hi>Cromwel</hi> ſeeing his time brings up the rear, and giving an ample character of the valour and godlineſs of the Army, argued. <q>That 'twas expected that now the Parliament ſhould govern and defend the Parliament by their own pow<g ref="char:EOLhyphen"/>er and reſolution, and not teach the peo<g ref="char:EOLhyphen"/>ple any longer, to expect ſafety and go<g ref="char:EOLhyphen"/>vernment
+<pb n="13" facs="tcp:123653:13"/>from an obſtinate man, whom God had hardned, and that thoſe men that had defended them hitherto, would defend them in whatever they ſhould do in relation to ſuch a reſolution. Teach them not by neglecting your own and the Kingdomes ſafety, in which their own is involved to think themſelves be<g ref="char:EOLhyphen"/>trayed and left hereafter to the rage and malice of an irreconciliable enemy, whom they have ſubdued for your ſake; and are therefore likely to find his future government of them inſupportable and fuller of revenge then Juſtice, leſt deſpair teach them to ſeek their ſafety by ſome other means then by adhearing to you who will not ſtick to your ſelves, and how deſtructive ſuch a reſolution will be I tremble to think, and leave you to judge.</q>
+            </p>
+            <p>Theſe words ſeem to have ſomething of meance in them, and therefore the Houſes paſs the Votes for Non-addreſſes and to ſhew the people the reaſons thereof; the Independant Grandees appoint a Commit<g ref="char:EOLhyphen"/>tee to ſearch into the Kings converſation, and the errors of his Government, and to publiſh them in a Declaration to the world.
+<pb n="14" facs="tcp:123653:14"/>Whereupon they form many high crimes againſt him, as the loſs of <hi>Rochel</hi> his fathes death, and the maſacre and rebellion in <hi>Ire<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Theſe deſperate courſes to diſhonour the King and make him uncapable of Govern<g ref="char:EOLhyphen"/>ment, to ruine his perſon, Crown and dig<g ref="char:EOLhyphen"/>nity, and to exterpate Monarchy, root and branch, were taken up in order to the uſurp<g ref="char:EOLhyphen"/>ing the Kingly power into the hands of the Grandees of the Parliament and Army.</p>
+            <p>The next thing they do is to compel the Countries to give thanks to the Houſes for their Votes againſt the King; <hi>Pine</hi> and <hi>Pri<g ref="char:EOLhyphen"/>deaux</hi> get ſubſcriptions in the Weſt, <hi>Mild<g ref="char:EOLhyphen"/>may</hi> in <hi>Eſſex, Purefoy</hi> in <hi>Warwickſhire, Ha<g ref="char:EOLhyphen"/>ſlerig</hi> in the parts about <hi>Newcaſtle,</hi> making the world believe that the ſubſcriptions of a few inconſiderable perſons, or of ſuch as they had put a force upon, had ſpoke the language of the whole Nation. But the Ci<g ref="char:EOLhyphen"/>ty being not ſo fully ſatisfied, a greater force is to be put upon them; and that the Grandees might have the better excuſe to do it, they ſtir up the apprentiſes by their own agents to a tumult, which being eaſi<g ref="char:EOLhyphen"/>ly quelled, they preſently order for future ſecurity, that more Souldiers be put into
+<pb n="15" facs="tcp:123653:14"/>the <hi>Mews</hi> and <hi>White-hall,</hi> that Barges capa<g ref="char:EOLhyphen"/>ble of fifty Musketeres, to conveigh the Souldiers to any place where any Inſur<g ref="char:EOLhyphen"/>rection might be, and that the chains and poſts be taken out of the ſtreets.</p>
+            <p>While theſe things were a doing, <hi>Crom<g ref="char:EOLhyphen"/>well,</hi> finding the King to be a great ſtop to his affairs, reſolves to take him privately a<g ref="char:EOLhyphen"/>way, and therefore writes to <hi>Hammond</hi> to remove him out of the way, either by poy<g ref="char:EOLhyphen"/>ſon or by any other means.</p>
+            <p>Mr. <hi>Osborn</hi> informs the Houſes of this by a Letter to the Speaker, wherein he tells them that <hi>Rolfe</hi> ſhould ſay, <q>That <hi>Ham<g ref="char:EOLhyphen"/>mond</hi> had received ſeverall Letters from the Army to remove the King, by poyſon, or by any other meanes, out of the way.</q> He further wrote, <q>That <hi>Rolfe</hi> ſhould tell him, that <hi>Hammond</hi> had a good allow<g ref="char:EOLhyphen"/>ance for keeping the King, and therefore he would not do it, as being loth to loſe the profit: but ſaid <hi>Rolfe,</hi> If you will joyn with me, we will endeavour to con<g ref="char:EOLhyphen"/>veigh the King to ſome private place, and we may then do what we will with him. And further; Mr. <hi>Osburn</hi> offered in his ſaid Letter, to appear and make it good upon oath, if he might be permitted to
+<pb n="16" facs="tcp:123653:15"/>come and go with freedome and ſafety.</q> The Clerk had no ſooner done this, but with a ſlight neglect, and the laughter of ſome of the Members, the buſineſs was paſs'd over without debate; and Mr. <hi>Scowen</hi> ſtood up to propound new buſineſs. When preſently another Gentleman interrupting him urged, <q>That ſuch an Information coming to the Houſe ought not to be neglected, whether true or falſe, but to be examined and ſifted to the bottom, and therefore mov'd, that a Committee might be named to examine <hi>Rolfe, Osborn,</hi> and <hi>Hammond:</hi>
+               </q> This was ſeconded by Sir <hi>Si<g ref="char:EOLhyphen"/>mon D'ewes,</hi> Mr. <hi>H. Hungerford</hi> and Mr. <hi>Ed. Stevens;</hi> but they received a ſlight anſwer, <q>That <hi>Osborn</hi> was not to be found, and that he was a Malignant, and had attempted to ſet the King at liberty.</q> To which it was replyed, <q>That a Committee could be na<g ref="char:EOLhyphen"/>med to examine the buſineſs concerning the Foot-boy that ſtruck Sir <hi>H. Mildmay,</hi> though no man knew where to find the Foot-boy; that it was ſtrange there ſhould be ſuch a difference between beat<g ref="char:EOLhyphen"/>ing a Subject and killing a King; that though Mr. <hi>Osborn</hi> were a Malignant, yet unleſs he were alſo a <hi>Nullifidian,</hi> convicted
+<pb n="17" facs="tcp:123653:15"/>of perjury, his oath was valid and good.</q> But <hi>Scot</hi> ſtood up and ſaid, <q>That this preſ<g ref="char:EOLhyphen"/>ſing to examine this buſineſs, was but to draw <hi>C. Hammond</hi> to Town, that the King might the eaſier make an eſcape:</q> and Sir <hi>IOhn Evelin</hi> of <hi>Wilts</hi> alledged, <q>That this was an invention of Mr. <hi>Osborn,</hi> to bring the King to Town with freedom, honour, and ſafety.</q> And though other motions were made for the ſaid Committee, yet ei<g ref="char:EOLhyphen"/>ther Mr. <hi>Scowen,</hi> or <hi>Skippon,</hi> ſtood up and offered to divert the buſineſs by new mat<g ref="char:EOLhyphen"/>ter concerning the Army, which bears all buſineſs down before it; and ſo the bu<g ref="char:EOLhyphen"/>ſineſs was buried in ſilence for that time. Afterwards the Lords propounded, that he might have forty dayes allowed him, which was with much ado granted: He comes and avouches it: and one <hi>Doucet</hi> further affirm'd a deſign of <hi>Rolfe</hi>'s to piſtoll the King. <hi>Rolfe</hi> preſents himſelf at the Com<g ref="char:EOLhyphen"/>mons Barr, with a Letter from <hi>Hammond,</hi> who denies the deſign, and pleads <hi>Rolfe</hi>'s cauſe for him. <hi>Rolfe</hi> denyed it at the Barr with a very trembling voice; yet after<g ref="char:EOLhyphen"/>wards hid out of the way. <hi>Hammond</hi> was neither ſent for nor queſtioned. Thus was this buſineſs quite huſht up, which onely
+<pb n="18" facs="tcp:123653:16"/>ſerv'd to ſhew what the Gentlemen at <hi>Weſtminſter</hi> ſolely aimed at; and indeed their rancour was now at that height againſt the King, that <hi>Skippon</hi> thought it juſt cauſe of complaint, that ſome perſons had prin<g ref="char:EOLhyphen"/>ted a Book, called, <hi>A motive to loyall Sub<g ref="char:EOLhyphen"/>jects to endeavour the preſervation of his Majeſties perſon.</hi>
+            </p>
+            <p>Many Petitions now alſo come for a Perſonall Treaty, and among the reſt the <hi>Surrey</hi> men petition for a Perſonal Treaty: But <hi>Scot</hi> ſtanding up in the Houſe argued, <q>That it was a deſign to ruine the Godly: That he was of opinion, that there could be no time ſeaſonable for a Perſonall Treaty, or a Peace, with ſo perfidious a Pince, but that it would be alwayes either too ſoon, or too late; that he that draws his ſword againſt the King muſt throw away the ſcabbord, that all peace with him would prove the ſpoil of the God<g ref="char:EOLhyphen"/>ly.</q>
+            </p>
+            <p>Thus by him, and by the aſſiſtance of the Worthies, <hi>Ven, Miles, Corbet, Hill,</hi> and <hi>Har<g ref="char:EOLhyphen"/>vey, Cromwell</hi> had his deſign in part, for that the Petition had no ſucceſs.</p>
+            <p>The King was now a priſoner in the Iſle of <hi>Wight,</hi> when <hi>Cromwell</hi> had overthrown
+<pb n="19" facs="tcp:123653:16"/>Duke <hi>Hamilton</hi> at <hi>Preſton,</hi> and there by cut off the greateſt hopes which the King had of being releived: The Victory was great, and ſwelled the Grandees, that were then ſitting at <hi>Weſtminſter,</hi> to ſuch a height of pride, of whom the chief were, <hi>Thom. Scot, Cornelius Holland,</hi> and Sir. <hi>Harry Mildmay,</hi> that though before there were fair hopes of a Perſonall Treaty, now began to ſhew an utter diſdain and malice againſt it, and to threaten and inſult over all that had peti<g ref="char:EOLhyphen"/>tioned for it abroad, or ſpoken for it in the Houſe.</p>
+            <p>But the wiſe ſort, or rather the more crafty to do miſchief, knowing how weary the people were of their Texes and the Ar<g ref="char:EOLhyphen"/>my, and how covetous to purchaſe peace, though at the price of a new warr; and further conſidering that the <hi>Scots</hi> were not wholly reduc'd, that the people were not yet quieted in many parts of <hi>England;</hi> and finding the Prince with a conſiderable Fleet at Sea, ready to raiſe new tempeſts at Land, thought it better to dally on the Treaty, till <hi>Oliver</hi> had quite finiſh'd his Northern Expedition, and were marched nearer <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and that all things were quiet in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and then to break off the Treaty, and
+<pb n="20" facs="tcp:123653:17"/>purge the Houſe of thoſe that ſought to agree with the King, under pretence of be<g ref="char:EOLhyphen"/>ing the Kings corrupt Party.</p>
+            <p>Therefore to blind the peoples eyes, it was debated in the Houſe, whether a Trea<g ref="char:EOLhyphen"/>ty ſhould be had with the King upon the Propoſitions of <hi>Hampton-Court;</hi> the que<g ref="char:EOLhyphen"/>ſtion being put, the Yeas and Noes were even fifty ſeven to fifty ſeven, inſomuch that the Speakers voice was put to turn the ſcales; who, though at this time he fore<g ref="char:EOLhyphen"/>man of <hi>Oliver</hi>'s ſhop, gives his voice in the affirmative, following then his conſcience againſt his intereſt; andmy Lord <hi>Say</hi> o<g ref="char:EOLhyphen"/>penly in the Houſe of Lords ſaid, God for<g ref="char:EOLhyphen"/>bid that any man ſhould take advantage of this victory to break off the Treaty. How<g ref="char:EOLhyphen"/>ever <hi>Cromwell</hi> having got a full conqueſt over his enemies, marches for <hi>London</hi> upon his deſign, though the Parliament forbid his approach. And to ſhew his contempt of them, he prints a Declaration, accuſing them of lightneſs, breach of truſt, incon<g ref="char:EOLhyphen"/>ſtancy, and indiſcretion, and threatning pre<g ref="char:EOLhyphen"/>ſently to advance towards <hi>Weſtminſter,</hi> to do what God ſhould enable them: The ſame night he came to <hi>Hide-Park</hi> corner: The next thing he did was to take poſſeſſi<g ref="char:EOLhyphen"/>on
+<pb n="21" facs="tcp:123653:17"/>of <hi>White-hall</hi> for his Quarters: He brought to town with him four Regiments of Foot, and ſix of Horſe, which he quarter<g ref="char:EOLhyphen"/>ed in the <hi>Mews</hi> by his own order.</p>
+            <p>The next news frequent in the Town was that of the Kings being ſeized in his bed-chamber, and hurried away priſoner to <hi>Hurſt</hi> Caſtle, a Block-houſe in the Iſle of <hi>Wight,</hi> ſtanding out a mile and a half in the Sea, ſo noiſome, that the Guards could not endure to be there long without often ſhifting their quarters.</p>
+            <p>This inſolent action ſatisfied onely the Independent and Monarchicall party, but the others, who were yet more numerous, ſeeing ſo hainous a fact committed againſt the life of the King, and the faith and ho<g ref="char:EOLhyphen"/>nour of the Parliament, reſolve once more to try their power; whereupon it was mo<g ref="char:EOLhyphen"/>ved that it might be declared, That his Ma<g ref="char:EOLhyphen"/>jeſty was remov'd by the Generals War<g ref="char:EOLhyphen"/>rant, without the conſent or privity of the Houſe.</p>
+            <p>The Army Members to ſlop this, argue that the word (Declare) would be conſtrued a declaring againſt the Generall and Army, and that the word (Conſent) argued a diſ<g ref="char:EOLhyphen"/>agreement in opinion and practiſe between
+<pb n="22" facs="tcp:123653:18"/>the Parliament and the Houſe, as if the Houſes diſſented from it; hereupon it was barely voted without the privity of the Houſe.</p>
+            <p>Nevertheleſs the other Members pro<g ref="char:EOLhyphen"/>ceed to the Kings Anſwers to the Propoſi<g ref="char:EOLhyphen"/>tions of both Houſes, whether they were ſatisfactions or no; which after a long and tedious debate was carried in the affirma<g ref="char:EOLhyphen"/>tive; and to keep a good correſpondence with the Army, a Committee of ſix Mem<g ref="char:EOLhyphen"/>bers was appointed to confer with the Ge<g ref="char:EOLhyphen"/>nerall and his Officers, but could receive no other anſwer from them then this, that the way to correſpond was to comply with the Armies Remonſtrance.</p>
+            <p>And now the Saints militant being inra<g ref="char:EOLhyphen"/>ged that the Houſe had recovered ſo much courage and honeſty to vote according to their conſciences, after ſome proud confe<g ref="char:EOLhyphen"/>rence between <hi>Pride, Hewſon,</hi> and other Officers, and the Speaker, in <hi>Weſtminſter-Hall,</hi> with the dores ſhut, <hi>Cromwell</hi> ſends a paper to the Houſe of Commons, requi<g ref="char:EOLhyphen"/>ring that the impeached Members and M. G. <hi>Brown</hi> might be ſecured and brought to juſtice, and that the 90. &amp; odd Members that refus'd to vote againſt the Scotch En<g ref="char:EOLhyphen"/>gagement,
+<pb n="23" facs="tcp:123653:18"/>and voted to recal the Votes for non-addreſſes, and for a treaty, might be ſuſpended the Houſe; and that all faithful Members who were innocent of thoſe Votes would acquit themſelves by prote<g ref="char:EOLhyphen"/>ſtation from any ſuch concurrence, that there might be a diſtinction made between um. The Paper was delivered in, but they ſcorning to ſta for an anſwer, ſent ſeveral guards to the Houſe under the command of <hi>Pride, Hewſon</hi> and <hi>Hardres Waller,</hi> and vi<g ref="char:EOLhyphen"/>olently ſeized all thoſe Members that they found two honeſt for their purpoſes.</p>
+            <p>The Houſe being thus purged, and brought to ſo ſmall a number in ſo much that an Officer of the Army having ſecured ſome of the Members in the Lobby as they were going into the Houſe, the Speaker ha<g ref="char:EOLhyphen"/>ving not enough within to make up a Houſe, was forced to ſend to the ſaid Offi<g ref="char:EOLhyphen"/>cer to lend him his priſoners to make up a free Parliament, in comes <hi>Cromwel</hi> out of the Countrey, and brings <hi>Harry Mar<g ref="char:EOLhyphen"/>tin</hi> that ſanctified Members along with him to make up his numbers, and to awe the City Garriſons, <hi>Blackfriers</hi> and <hi>Pauls.</hi>
+            </p>
+            <p>The ſecluded Members proteſt againſt
+<pb n="24" facs="tcp:123653:19"/>their ſecluſion, but the <hi>Cromwellian</hi> faction Vote their Proteſtation ſeditious, ſcanda<g ref="char:EOLhyphen"/>lous, and tending to deſtroy the viſible and fundamental Government of the King<g ref="char:EOLhyphen"/>dome. Then like <hi>Cromwels</hi> good boyes, they vote all the votes of the ſecluded Members for a perſonal treaty null and void; and to try whether all were their truſty friends that voted for them: <hi>Gourdon</hi> moved that a proteſtation be forthwith drawn up, and that every Member ſet his hand to it in deteſtation of thoſe repealed Votes which was drawn up afterwards, and within a few daies after ſubſcribed by</p>
+            <p>The Lord <hi>Liſle,</hi> Colonel <hi>Boswel,</hi> Lord <hi>Grey, Per. Pelham,</hi> Colo. <hi>Iones,</hi> Colonel <hi>Temple,</hi> Colo. <hi>Ven.</hi> Sir <hi>Thomas Maleverer,</hi> Sir <hi>Tho. Wroth,</hi> Sir <hi>Io. Bourchier,</hi> Col. <hi>Pet. Temple, Tho. Chaloner,</hi> Sir, <hi>Gregory Norton, Oldſworth, Garland,</hi> Sir <hi>Io. Danvers, Dove, Smith, Frie, Searle, Nic. Love, Io. Liſle,</hi> Col. <hi>Rigby, Holland, Ludlow, Greg. Clement,</hi> Col. <hi>Purefoy,</hi> Col. <hi>Stapely, Dunch, Cawley, Downs, Io. Carey, Blackstone, Scot. Hutch<g ref="char:EOLhyphen"/>inſon, Mildmay,</hi> Sir <hi>Iames Harrington,</hi> Col. <hi>Harvey, Penington, Atkins, Dan. Black<g ref="char:EOLhyphen"/>grave, Moor, Millington, Prideaux, Roger Hill, Denis Bond,</hi> Col. <hi>Harrington, Hodges,
+<pb n="25" facs="tcp:123653:19"/>Valentine.</hi> The deſign being thus pritty well ripened, the Counſel of War who managed the buſineſs in relation to the King, ordered that all ſtate and ceremony ſhould be forborn, the King and his atten<g ref="char:EOLhyphen"/>dants leſſend, which was done to mortifie him by degrees.</p>
+            <p>Now was it thought fit to have it moved in the Houſe, to proceed capitally againſt the King.</p>
+            <p>
+               <hi>Cromwel</hi> after it was once propoſed ſin<g ref="char:EOLhyphen"/>ding it then his cue to ſpeak, ſtoop up and told them, <hi>That if any mov'd this out of de<g ref="char:EOLhyphen"/>ſign he ſhould think him the greateſt Traytor in the World, but ſince providence and neceſſi<g ref="char:EOLhyphen"/>ty had caſt them upon it, he ſhould pray to God to bleſs their Counſels, though he were not provided on the ſuddain to give them Counſel.</hi> The White Boys thus animated went on furiouſly, and <hi>Scot</hi> with an unheard of impudence now dares to bring in the or<g ref="char:EOLhyphen"/>dinance for tryal of the King; it was read &amp; recommitted three ſeveral times, and Com<g ref="char:EOLhyphen"/>miſſioners names inſerted, conſiſting of di<g ref="char:EOLhyphen"/>vers Lords, Commons, Aldermen, Citizens, Countrey Gentlemen and Souldiers; that the more perſons of all ſorts might be en<g ref="char:EOLhyphen"/>gaged in ſo damnable and treaſonable a de<g ref="char:EOLhyphen"/>ſign,
+<pb n="26" facs="tcp:123653:20"/>and becauſe this Ordinance and the proceedings thereupon had no foundation in Divinity, Law nor Reaſon. The <hi>Crom<g ref="char:EOLhyphen"/>wellian</hi> Faction to give it a foundation and ground from the authority of their Votes, declare that by the Lawes of the Land it is treaſon in the King to levy war againſt the Parliament and Kingdome of <hi>England.</hi> This Vote together with the ordinance was carried up to the Lords by the Lords <hi>Grey</hi> of <hi>Groby.</hi> The firſt debate was upon the Vote. The Earl of <hi>Mancheſter</hi> told them, <hi>That the Parliament of</hi> England <hi>by the fundament<g ref="char:EOLhyphen"/>tal lawes of</hi> England <hi>conſiſted of three E<g ref="char:EOLhyphen"/>ſtates, King, Lords and Commons.</hi> The King is the firſt and chiefeſt eſtate, He calls and diſſolves the Houſe, and confirms all their Acts, and without him there can be no Par<g ref="char:EOLhyphen"/>liament, and therefore tis abſurd to ſay, <hi>The King can be a Traytor againſt the Par<g ref="char:EOLhyphen"/>liament.</hi> The Earl of <hi>Northumberland</hi> ſaid, <hi>That the greateſt part of the people of</hi> En<g ref="char:EOLhyphen"/>gland <hi>were not yet ſatisfied whether the King levied War firſt againſt the Houſes, or the Houſes againſt him; and therefore it was ve<g ref="char:EOLhyphen"/>ry unreaſonable to declare Treaſon by an Or<g ref="char:EOLhyphen"/>dinance, when the matter of fact is not yet proved, nor any Law extant to judge it by.</hi>
+               <pb n="27" facs="tcp:123653:20"/>Whereupon the Lords caſt off the debate, and caſt our the Ordinance.</p>
+            <p>Hereupon the Zealots of the Houſe, that is to ſay, that <hi>Proteſtors,</hi> were very angry at the Lords, and therefore intend to rid their hands of them, and the King, both toge<g ref="char:EOLhyphen"/>ther, and thereupon they preſently paſſed a Vote, ſhould be impowred to act, not<g ref="char:EOLhyphen"/>withſtanding the Lords did not concurre with them; and many of the moſt famous hot-ſpurs were ſo high, as to inſiſt, that the Lords, who would not give their con<g ref="char:EOLhyphen"/>currence to the Votes and Ordinance, ſhould be impeached for favouring the grand Delinquent.</p>
+            <p>Having thrown by the Lords, they pro<g ref="char:EOLhyphen"/>ceed to make themſelves to have the ſhew of a legall power by paſſing theſe three Votes.</p>
+            <list>
+               <item>1. <hi>That the people,</hi> that is to ſay, their own Faction, <hi>are the original of all juſt pow<g ref="char:EOLhyphen"/>er under God.</hi>
+               </item>
+               <item>2. <hi>That the Commons of</hi> England, <hi>being choſen by, and repreſenting the people, are the ſupreme Power of this Nation.</hi>
+               </item>
+               <item>3. <hi>That whatſoever is enacted by Law by
+<pb n="29" facs="tcp:123653:21"/>the Houſe of Commons aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, hath the force of a Law.</hi>
+               </item>
+            </list>
+            <p>This was <hi>Cromwels</hi> Chain-ſhot, whereby he ſwept a King and Lords, putting all the Liberties of this Nation under his own and the power of fifty or ſixty of his own covetous Saints.</p>
+            <p>By their former contrivances having now brought themſelves to ſuch a height of power, and that power to a boldneſſe that durſt go ſo farre, there was a neceſſity for them now to proceed, and therefore the next thing they did was, to paſſe the Ordi<g ref="char:EOLhyphen"/>nance for tryall of the King, which was car<g ref="char:EOLhyphen"/>ried on without one negative voice.</p>
+            <p>There was one rub in the way, that they could not uſe his own Great Seal againſt him, and a new one was long a making: But after conſultation, they agreed upon a new way; for what need ceremonies when men are reſolved upon the ſubſtance? They therefore proceed without any Commiſſion under Seal, upon the Ordinance, and every Commiſſioners ſet his own hand and ſeal to the publick inſtrument of their tranſacti<g ref="char:EOLhyphen"/>ons.</p>
+            <p>At the ſame time great endeavours are
+<pb n="29" facs="tcp:123653:21"/>made to ſtop the mouths of the Miniſters, giving them threatning admonitions not to preach againſt the actings of the Parlia<g ref="char:EOLhyphen"/>ment and the Army; and the Councill of Warr finding it difficult to ſtop the Mini<g ref="char:EOLhyphen"/>ſters mouths, did ſundry times debate to ſhut up the Church dores, to which purpoſe they impriſoned Mr. <hi>Canton</hi> for praying for the King, and threatened to try him at the Upper Bench for his life.</p>
+            <p>And to ſet a greater gloſs upon their acti<g ref="char:EOLhyphen"/>ons, <hi>Tichbourn</hi> their own creature, by their command, preſents a ſchiſmatical Petition, directed to the Supreme Authority the Commons in Parliament, demanding juſtice upon the capital offenders from the higheſt to the loweſt.</p>
+            <p>The like Petitions were invited by them from the Countries, where a dozen ſchiſ<g ref="char:EOLhyphen"/>maticks and two or three cloaks repreſent<g ref="char:EOLhyphen"/>ed a whole family.</p>
+            <p>After this <hi>Hammond</hi> preſents them with a ſcandalous Libell, called, <hi>The Agreement of the People,</hi> demanding nothing elſe but the totall ſubverſions of the Fundamentall Laws and Government of the Nation, which they ordered to be forthwith printed, as if it had been the generall ſence of the whole Nation.</p>
+            <pb n="30" facs="tcp:123653:22"/>
+            <p> When the Commiſſioners come to ſit in the Painted Chamber, the Witneſſes were not farre off, a company of the moſt con<g ref="char:EOLhyphen"/>temptible perſons in the world, ſuborned for the purpoſe, men rather told what they ſhould ſay, then examined what they knew, for that the Grandees might do things le<g ref="char:EOLhyphen"/>gally, they made the examinations and cauſed the others to put their names to them.</p>
+            <p>The names of the Witneſſes were as fol<g ref="char:EOLhyphen"/>loweth, perſons next to profeſſed beggery, the meaneſt that could be.</p>
+            <list>
+               <item>
+                  <hi>Henry Hartford</hi> of <hi>Stratford</hi> upon <hi>A<g ref="char:EOLhyphen"/>von.</hi>
+               </item>
+               <item>
+                  <hi>Edward Roberts</hi> of <hi>Biſhop</hi> Caſtle, Iron<g ref="char:EOLhyphen"/>monger.</item>
+               <item>
+                  <hi>Will. Braines</hi> of <hi>Wrynxhall,</hi> Gent.</item>
+               <item>
+                  <hi>Robert Lacy</hi> of <hi>Nottingham,</hi> Pain<g ref="char:EOLhyphen"/>ter.</item>
+               <item>
+                  <hi>Rob. Loade</hi> of <hi>Cottam</hi> in Com. <hi>Nottingh.</hi> Tyler.</item>
+               <item>
+                  <hi>Samuel Morgan</hi> of <hi>Wellington</hi> in Com. <hi>Salop</hi> Feltmaker.</item>
+               <item>
+                  <hi>Iames Williams</hi> of <hi>Roſs</hi> in Com. <hi>Hart<g ref="char:EOLhyphen"/>ford,</hi> Shoomaker.</item>
+               <pb n="31" facs="tcp:123653:22"/>
+               <item>
+                  <hi>Richard Potts</hi> of <hi>Shaepreton</hi> in Com. <hi>Nor<g ref="char:EOLhyphen"/>thumb.</hi> Vintner.</item>
+               <item>
+                  <hi>Giles Price</hi> of <hi>Wellington,</hi> Gent.</item>
+               <item>
+                  <hi>Will Arnop</hi> of</item>
+               <item>
+                  <hi>Iohn Hudſon</hi> of</item>
+               <item>
+                  <hi>Iohn Winſton</hi> of <hi>Dornorham</hi> in Com. <hi>Wilts.</hi>
+               </item>
+               <item>
+                  <hi>George Seely</hi> of <hi>London,</hi> Cordwainer.</item>
+               <item>
+                  <hi>Iohn Moore</hi> of <hi>Cork</hi> in <hi>Ireland,</hi> Gent.</item>
+               <item>
+                  <hi>Thom. Ives</hi> of <hi>Boſſet</hi> in Com. <hi>Northamp<g ref="char:EOLhyphen"/>ton,</hi> Husbandman.</item>
+               <item>
+                  <hi>Iames Iresby</hi> of <hi>Dublin,</hi> Barber.</item>
+               <item>
+                  <hi>Thom. Rawlins</hi> of <hi>Hanſlop</hi> in Com. <hi>Buck.</hi> Gent.</item>
+               <item>
+                  <hi>Richard Blomfeild</hi> of <hi>London,</hi> Wea<g ref="char:EOLhyphen"/>ver.</item>
+               <item>
+                  <hi>Iohn Thomas</hi> of <hi>Kangallan</hi> in Com. <hi>Denby.</hi>
+               </item>
+               <item>
+                  <hi>Will. Lawſon</hi> of <hi>Nottingham,</hi> Mal<g ref="char:EOLhyphen"/>ſter.</item>
+               <item>
+                  <hi>Iohn Pinegar</hi> of <hi>Damer</hi> in Com. <hi>Darby,</hi> Shoomaker.</item>
+               <item>
+                  <hi>Humphrey Brown</hi> of <hi>Whitſundine</hi> in Com. <hi>Rutl.</hi> Yeoman.</item>
+               <item>
+                  <hi>David Evans</hi> of <hi>Neathe</hi> in Com. <hi>Cla<g ref="char:EOLhyphen"/>morg.</hi> Gent.</item>
+               <item>
+                  <hi>Robert Holmes</hi> of</item>
+               <pb n="32" facs="tcp:123653:23"/>
+               <item>
+                  <hi>Robert Williams</hi> of <hi>Hillary</hi> in Com. <hi>Gla<g ref="char:EOLhyphen"/>morgan,</hi> Atturney.</item>
+               <item>
+                  <hi>Samuel Worden</hi> of <hi>Limeham</hi> in Com. <hi>Wilts,</hi> Gent.</item>
+               <item>
+                  <hi>Thomas Read</hi> of <hi>Maidſtone</hi> in Com. <hi>Kent,</hi> Gent.</item>
+               <item>
+                  <hi>George Cornwall</hi> of <hi>Aſton</hi> in Com. <hi>He<g ref="char:EOLhyphen"/>reford,</hi> Forgeman.</item>
+               <item>
+                  <hi>Will. Iones</hi> of <hi>Usk</hi> in Com. <hi>Monmouth,</hi> Husbandman.</item>
+               <item>
+                  <hi>Arthur Young</hi> Citizen and Barber Chi<g ref="char:EOLhyphen"/>rurgion of <hi>London.</hi>
+               </item>
+               <item>
+                  <hi>Diogenes Edwards</hi> of <hi>Caſton</hi> in Com. <hi>Sa<g ref="char:EOLhyphen"/>lop.</hi> Butcher.</item>
+               <item>
+                  <hi>Iohn Bennet</hi> of <hi>Huewood</hi> in Com. <hi>Ebor,</hi> Glover.</item>
+               <item>
+                  <hi>Will. Sutbert</hi> of <hi>Patrington</hi> in <hi>Holderneſs</hi> in Com. <hi>Ebor,</hi> Gent.</item>
+               <item>
+                  <hi>Richard Price</hi> of <hi>London,</hi> Scrivener.</item>
+               <item>
+                  <hi>Henry Gracye,</hi> ſtil'd of <hi>Greys</hi> Inne,</item>
+            </list>
+            <p>Gent. But the Book being examined, the name of no ſuch perſon was there to be found, nor was he ever known there: He ſoon ſpent the reward he had, and lived miſerably afterwards, and was taken in a very low and deſpicable condition; by which it is eaſie to gueſſe at the gentility of the reſt, who ſtile themſelves Gentlemen,
+<pb n="33" facs="tcp:123653:23"/>yet were hired to mix with the baſeſt of Mechanicks to perpetrate ſo great a vil<g ref="char:EOLhyphen"/>lany.</p>
+            <p>Thus inſtead of bringing the King to his Parliament, inſtead of bringing an end to the Treaty, they bring him to a publick Tryall in <hi>Weſtminſter-Hall.</hi>
+            </p>
+            <p>The firſt day they urged him to acknow<g ref="char:EOLhyphen"/>ledge the Juriſdiction of the Court: a moſt unheard of piece of tyranny, which had neither law, preſident, rationall debate or argument to prove it. But the King with a magnanimous reſolution denies it: ſo they adjourn for that day. As the King was conducted back, they had ſo contrived it, that divers ſchiſmatical ſouldiers and fel<g ref="char:EOLhyphen"/>lows were placed round about the Court to cry <hi>juſtice, juſtice,</hi> thinking all the reſt would have bleated to the ſame tune; but they almoſt all cryed, God bleſſe Him, and were ſome of them well cudgelled by the Army, for not ſaying their prayers hand<g ref="char:EOLhyphen"/>ſomely after the Army mode, and one of the barbarous Souldiers ſpit in the Kings face; the King onely ſaying, <hi>Chriſt ſuffered more for my ſake,</hi> and wiped it off with
+<pb n="34" facs="tcp:123653:24"/>his handkerchief: Yet the Court took no notice of this affront, ſo far already had they condemn'd him to ſufferings.</p>
+            <p>The ſecond day they urge the ſame thing again. The King demands that he may put in his Demurrer. But they over<g ref="char:EOLhyphen"/>rule his Demurrer without an Argument; a thing never heard of before, and againſt all reaſon: But they did as good as tell him, that reaſon was not to be heard againſt the remaining Faction of the <hi>Commons of Eng<g ref="char:EOLhyphen"/>land.</hi>
+            </p>
+            <p>Being brought the thirdday, <hi>Cook</hi> preſ<g ref="char:EOLhyphen"/>ſes for judgement, telling the Court, among other things, that the Houſe of Commons, the Supreme Authority and Juriſdiction of the Nation, as he named them, had decla<g ref="char:EOLhyphen"/>red, that it was notorious, that the matter of the Charge was true; whereby it ap<g ref="char:EOLhyphen"/>pears, that <hi>Cromwell</hi> and his Faction had fore-judged the King before they erected their new Court to ſentence him, claiming a Juriſdiction as well as a ſupreme Autho<g ref="char:EOLhyphen"/>rity.</p>
+            <p>The fourth and laſt day, Sentence was pronounced againſt him. The King how<g ref="char:EOLhyphen"/>ever before Sentence urged to have them hear the reaſons why he could not ſubmit
+<pb n="35" facs="tcp:123653:24"/>to their tyranny, but could not be heard: Which reaſons, becauſe they are not com<g ref="char:EOLhyphen"/>mon, we have thought fit to ſet down as they were taken from his own original wri<g ref="char:EOLhyphen"/>ting, as followeth.</p>
+            <p>Having already made my proteſtations not onely againſt the illegallity of this pre<g ref="char:EOLhyphen"/>tended Court, but alſo that no earthly power can juſtly call me (who am your King) in queſtion as a Delinquent; I would not more open my mouth upon this occaſion, more then to referre my ſelf to what I have ſpoken, were I alone in this caſe concerned. But the duty I owe to God, in the preſervation of the true Li<g ref="char:EOLhyphen"/>berty of my people, will not ſuffer me at this time to be ſilent. For how can any free-born Subject of <hi>England,</hi> call life or any thing that he profeſſeth his own, if power without right daily make new, and abrogate the old fundamentall Law of the Land, which I now take to be the preſent caſe.</p>
+            <p>There is no proceeding againſt any man, but what is warranted either by Gods Laws, or by the Municipall Laws of the Countrey where he lives. Now I am moſt
+<pb n="36" facs="tcp:123653:25"/>confident, that this dayes proceeding can<g ref="char:EOLhyphen"/>not be warranted by Gods Law; for on the contrary, the Authority of obedience to Kings is clearly warranted by Gods Law, and ſtrictly commanded both in the old and new Teſtament; which if denied, I am ready inſtantly to prove; And for the que<g ref="char:EOLhyphen"/>ſtion now in hand, there it is ſaid, <hi>That where the word of a King is there is power, and who may ſay unto him, what doſt thou?</hi>
+            </p>
+            <p>Then for the Laws of the Land, I am no leſſe confident, that no learned Lawyer will affirm, that an Impeachment can lie againſt the King, they all going in his name, and one of their Maximes is <hi>That the King can do no wrong.</hi> Beſides, the Law upon which you ground your proceedings, muſt be ei<g ref="char:EOLhyphen"/>ther new or old; if old ſhew it; if new, tell what Authority, warranted by the Fun<g ref="char:EOLhyphen"/>damental Laws of the Land, hath made it, and when.</p>
+            <p>But how the Houſe of Commons can erect a Court of Judicature, which was ne<g ref="char:EOLhyphen"/>ver one it ſelf, as is well known to all Law<g ref="char:EOLhyphen"/>yers. I leave God and the world to judge: And it were full as ſtrange, that they ſhould pretend to make Laws without King or
+<pb n="37" facs="tcp:123653:25"/>Lords Houſe, to any that have heard ſpeak of the Laws of <hi>England.</hi>
+            </p>
+            <p>And admitting, but not granting, that the people of <hi>Englands</hi> Commiſſion could grant your pretended power, I ſee nothing you can ſhew for that; for certainly you never asked the queſtion of the tenth man of the Kingdom; and in this way you ma<g ref="char:EOLhyphen"/>nifeſtly wrong, even the pooreſt Plough<g ref="char:EOLhyphen"/>man, if you demand not his free conſent; nor can you pretend any colour for this your pretended Commiſſion, without the conſent, at leaſt, of the major part of every man in <hi>England,</hi> of whatſoever quality or condition, which I am ſure you never went about to ſeek, ſo farre are you from having it.</p>
+            <p>Thus you ſee I ſpeak not for my own right alone; as I am your King, but alſo for the true Liberty of all my Subjects, which conſiſts not in ſharing the power of Go<g ref="char:EOLhyphen"/>vernment, but in living under ſuch laws ſuch a Government, as may give them the beſt aſſurance of their lives, and the propriety of their goods.</p>
+            <p>And for the Houſe of Commons, that the major part of them are detain'd or de<g ref="char:EOLhyphen"/>terr'd from ſitting, ſo as if I had no other,
+<pb n="38" facs="tcp:123653:26"/>this were ſufficient for me to proteſt a<g ref="char:EOLhyphen"/>gainſt the lawfulneſs of your pretended Court.</p>
+            <p>Beſides all this, the peace of the King<g ref="char:EOLhyphen"/>dome is not the leaſt in my thoughts, and what hopes of ſettlement are there, ſo long as power rules without Law, changing the whole frame of that Government, under which this Kingdome hath flouriſhed for many hundred years; and believe it, the Commons of <hi>England</hi> will not thank you for this change, for they will remember how happy they have been of late years under the reign of Queen <hi>Elizabeth,</hi> the King my Father, and my ſelf, untill the be<g ref="char:EOLhyphen"/>ginning of theſe unhappy troubles, and will have cauſe to doubt that they ſhall never be ſo happy under any new.</p>
+            <p>Theſe were the Reaſons which the King intended to have delivered before ſentence, but they were utterly rejected, by thoſe who knew it was not their buſineſs to hear reaſon in a Court that was erected contra<g ref="char:EOLhyphen"/>ry to reaſon; and therefore they haſten to give judgement, which was brief, <hi>That the King for ſundry Crimes and Miſdemeanours</hi> (which he was never guilty of) <hi>ſhould be put to death.</hi>
+            </p>
+            <pb n="39" facs="tcp:123653:26"/>
+            <p> During the intervall between his Sen<g ref="char:EOLhyphen"/>tence and Execution, the Houſe ordered upon moton, that Doctor <hi>Iuxon,</hi> Biſhop of <hi>London,</hi> ſhould be permitted to be private with the King in his chamber, to preach and adminiſter the Sacrament and other ſpiritual comforts to him.</p>
+            <p>But nevertheleſs the Maſters of the Councill of Warr appointed <hi>Iohn Goodwin</hi> of <hi>Coleman-ſtreet,</hi> the <hi>Balaam</hi> of the Ar<g ref="char:EOLhyphen"/>my, to be Superintendent both over the Biſhop and the King, ſo that they could hardly ſpeak a word together without be<g ref="char:EOLhyphen"/>ing over-heard by the long ſchiſmaticall eares of black-mouth'd <hi>Iohn:</hi> And beſides all this, the Guard of Souldiers that was kept within his chamber, what with talking, what with clinking the pots, and opening and ſhutting the dores, and taking Tobacco, a thing very offenſive to the Kings nature, they kept him waking, thereby diſtemper<g ref="char:EOLhyphen"/>ing and amazing him with want of ſleep, that they might the more eaſily bring him to their termes.</p>
+            <p>Upon the twenty eighth of <hi>Ianuary,</hi> be<g ref="char:EOLhyphen"/>ing the laſt Sabbath the King kept in this life, ſome of the Grandees of the Parlia<g ref="char:EOLhyphen"/>ment and Army tender'd to the King a
+<pb n="40" facs="tcp:123653:27"/>paper book, with promiſe of life, and ſome ſhadow of regality if he ſubſcrib'd it. It contained many particulars deſtructive to the fundamentall Government, Religion, Laws and property of the People; one among the reſt was this,</p>
+            <p>(That the King ſhould paſs an Act of Parliament for keeping on foot the Militia of this Army, during the pleaſure of the Grandees, who ſhould be truſted with that Militia, with power to recruit from time to time, and continue them to the number of forty thouſand Horſe and Foot, under the ſame Generall and Officers, with power notwithſtanding in the Councill of Warr to chuſe new Officers and Generals from time to time, as occaſion ſhall happen, and they think fit; and to ſettle a very great Tax upon the people by a Land rate, for an eſtabliſhed pay for the Army, to be levied and collected by the Army themſelves; and a Court-Martiall of an exorbitant extent and latitude.</p>
+            <p>But his Majeſty having read ſome of the Propoſitions threw them aſide, telling them, <hi>He would rather become a Sacrifice for his People, then betray their Lives, Laws, Liberties, and Eſtates, together with the
+<pb n="41" facs="tcp:123653:27"/>Church and Common-wealth, and the honour of his Crown to ſo intolerable a bondage of an armed faction.</hi>
+            </p>
+            <p>Saturday night and Sunday night the King lay in <hi>White-hall,</hi> ſo neer the place ap<g ref="char:EOLhyphen"/>pointed for the ſeparation of his ſoul and body, that he might hear every ſtroak the workmen gave upon the ſcaffold where they wrought all night; this was a new de<g ref="char:EOLhyphen"/>vice to mortifie him, but it would not doe.</p>
+            <p>Tueſday the thirtieth of <hi>Ianuary</hi> was the day appointed for the Kings death. His Majeſty coming upon the ſcaffold, ſhewed all the while an extraordinary magnanimi<g ref="char:EOLhyphen"/>ty and Chriſtian patience. He had his head ſevered from his body at one ſtroke, the Schiſmaticks ſhowting preſently after. His Executioners, though then concealed, are now found to be <hi>Ioyce,</hi> that bloody in<g ref="char:EOLhyphen"/>ſtrument of <hi>Cromwell</hi>'s deſignes, and <hi>Pe<g ref="char:EOLhyphen"/>ters,</hi> who lay not with a Butchers Wife ſo long, to be ignorant of her Trade. And therefore the Parliament have now ſent for them to receive the condign puniſh<g ref="char:EOLhyphen"/>ment of their villany.</p>
+            <pb n="42" facs="tcp:123653:28"/>
+            <p> This is the relation of his Majeſties Tryall by a mix'd Court of Juſtice, erected by fifty or ſixty confederate Members, after all the reſt of the Members, above two hundred and fifty, had been violently ſe<g ref="char:EOLhyphen"/>cluded, ſecured, and frighted. And thus this noble Prince, a Perſon ſanctified by many afflictions, after he had eſcaped Pi<g ref="char:EOLhyphen"/>ſtoll, Poyſon, and peſtilent Air, could not eſcape the malice of <hi>Cromwell,</hi> nor the impudence of <hi>Cook, Bradſhaw, Steele, Aske, Doriſtaus.</hi> Thus was the Shep<g ref="char:EOLhyphen"/>heard ſmitten, and the Sheep were ſcat<g ref="char:EOLhyphen"/>tered.</p>
+            <p>But Heaven not willing longer to en<g ref="char:EOLhyphen"/>dure the wickedneſs of ſuch inſolent Ty<g ref="char:EOLhyphen"/>rants, nor to ſee the innocent longer in affliction, hath been pleaſed at length to reſtore the King to his Throne, putting his Enemies to ſhame and confuſion; and herein we muſt admire the juſtice of the Parliament, to whom the King, unwil<g ref="char:EOLhyphen"/>ling to be Judge in his own cauſe, hath referred himſelf. What they have done their Acts declare.</p>
+            <p>The laſt week they excepted eleven of the grand Delinquents from mercy.</p>
+            <list>
+               <pb n="43" facs="tcp:123653:28"/>
+               <item>M. G. <hi>Harriſon.</hi>
+               </item>
+               <item>Mr. <hi>Say.</hi>
+               </item>
+               <item>Mr. <hi>Scot.</hi>
+               </item>
+               <item>Coll. <hi>Berkſtead.</hi>
+               </item>
+               <item>M. <hi>Liſle.</hi>
+               </item>
+               <item>
+                  <hi>Cornel. Holland.</hi>
+               </item>
+               <item>
+                  <hi>Iones.</hi>
+               </item>
+               <item>
+                  <hi>Cook.</hi>
+               </item>
+               <item>
+                  <hi>Broughton.</hi>
+               </item>
+               <item>Sar. <hi>Dandy.</hi>
+               </item>
+               <item>M. <hi>Hulit.</hi>
+               </item>
+            </list>
+            <p>After this in further proſecution of their intentions, to bring theſe horrid murtherers to condign puniſhment, they made a Pro<g ref="char:EOLhyphen"/>clamation in the Kings Name, that all the Kings Judges ſhould render themſelves within forty dayes, or elſe they ſhould be excepted for life and eſtate, whether they were of the twenty nam'd or no.</p>
+            <p>Hereupon Alderman <hi>Tichborn, Charles Fleetwood,</hi> Coll. <hi>Temple,</hi> Coll. <hi>Waite, Peter Temple, Simon Maine, Bourchier, Owen Roe,</hi> Coll. <hi>Rob. Lilburn,</hi> Coll. <hi>Downes, Iſaak Penington,</hi> Sir <hi>Henry Mildmay,</hi> Coll. <hi>Dix<g ref="char:EOLhyphen"/>well, Adrian Scroop, Auguſtine Garland,</hi>
+               <pb n="44" facs="tcp:123653:29"/>Coll. <hi>Harvey,</hi> Mr. <hi>Smith,</hi> Sir <hi>Hardreſs Waller, Henry Martin, Heveningham, Iohn Carew,</hi> M. G. <hi>Ludlow, M. Corbet,</hi> did ſur<g ref="char:EOLhyphen"/>render themſelves, and are now in cuſtody under the Sergeant at Armes attending the Houſe.</p>
+            <p>From <hi>Ireland</hi> were ſent Coll. <hi>Hunck,</hi> Coll. <hi>Pheire,</hi> to whom the Warrant for ex<g ref="char:EOLhyphen"/>ecution was directed, and one <hi>Hulet,</hi> ſuſpected to be the Executioner, and upon examination excepted out of the Act of Pardon, and <hi>Cook</hi> Sollicitor to the High Court of Juſtice.</p>
+            <p>They have alſo ordered, that twenty of the moſt engaged perſons be excepted out of the generall Act of Pardon and Oblivi<g ref="char:EOLhyphen"/>on, not extending to life, to ſuffer ſuch pe<g ref="char:EOLhyphen"/>nalties, and forfeitures as ſhall be ſpecified in an Act to that purpoſe.</p>
+            <p>Whoſe names are;</p>
+            <list>
+               <item>
+                  <hi>Will. Lenthall</hi> Speaker.</item>
+               <item>Sir <hi>Harry Vane.</hi>
+               </item>
+               <item>
+                  <hi>Will. Burton</hi> Bailiff of <hi>Yarmouth.</hi>
+               </item>
+               <item>Sir <hi>Arthur Heſlerig.</hi>
+               </item>
+               <item>Coll. <hi>Sydenham.</hi>
+               </item>
+               <item>Coll. <hi>Desborow.</hi>
+               </item>
+               <item>Alderm. <hi>Ireton.</hi>
+               </item>
+               <pb n="45" facs="tcp:123653:29"/>
+               <item>Coll. <hi>Axtell.</hi>
+               </item>
+               <item>Mr. <hi>Keeble.</hi>
+               </item>
+               <item>Capt. <hi>Blackwell.</hi>
+               </item>
+               <item>Maj. <hi>Creed.</hi>
+               </item>
+               <item>
+                  <hi>Charles Fleetwood</hi> Lieut. Generall.</item>
+               <item>Coll. <hi>Iohn Lambert.</hi>
+               </item>
+               <item>Alderm. <hi>Pack.</hi>
+               </item>
+               <item>Coll. <hi>Pine.</hi>
+               </item>
+               <item>Coll. <hi>Cobbet.</hi>
+               </item>
+               <item>Capt. <hi>Deane.</hi>
+               </item>
+               <item>
+                  <hi>Oliver St. Iohn</hi> late one of the Juſti<g ref="char:EOLhyphen"/>ces of the Common Pleas.</item>
+               <item>Mr. <hi>Philip Nye.</hi> and Mr. <hi>Iohn Goodwin.</hi> Miniſters.</item>
+            </list>
+            <p>Thus we ſee Divine Vengeance proſe<g ref="char:EOLhyphen"/>cuting theſe Sons of <hi>Maſſacre,</hi> who having by treachery, diſſimulation, and breach of oaths, as we have ſhewn you, gotten into power, by their extravagant tyranny had al<g ref="char:EOLhyphen"/>moſt ruined the Nation. <hi>Let God ariſe, and let his enemies be ſcattered.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:123653:30"/>
+            <head>A Catalogue of ſome Books lately printed, and in the Preſſe a printing for <hi>Henry Marſh</hi> at the <hi>Princes Armes</hi> in <hi>Chancery-lane</hi> neer <hi>Fleet-ſtreet.</hi>
+            </head>
+            <list>
+               <item>1. THe <hi>Soveraignes Prerogative, and Subjects Priviledge,</hi> compriſed in ſeveral Speeches, Caſes, and Arguments, Hiſtoricall and Politicall, diſcuſſed between the Kings ſacred Majeſty, and the moſt eminent Perſons of both Houſes of Par<g ref="char:EOLhyphen"/>liament, together with the grand Myſteries of State then in agitation, faithfully collected by <hi>Thomas Fuller,</hi> B. D. <hi>in folio,</hi> ſecond edition, 1660.</item>
+               <item>2 <hi>A compleat Hiſtory of the Warres of the Greeks,</hi> written by the learned <hi>Polibüis,</hi> and tranſlated by <hi>Edward Grimſton</hi> Eſquire, Sergeant at Armes to his late Majeſty, <hi>in folio.</hi>
+               </item>
+               <item>3 <hi>The faithfull Lapidary,</hi> or the nature and qualities of all pretious Stones, very uſefull for Merchants and others to avoid deceit, by <hi>Thomas Nichols, in quarto.</hi>
+               </item>
+               <item>4 A Treple Reconciler ſtating the Controver<g ref="char:EOLhyphen"/>ſies, 1 whether Miniſters have an Excluſive power of Communicants from the Sacrament, 2 if any perſon unordained may lawfully preach, 3 if the Lords Prayer ought not to be uſed by all Chriſti<g ref="char:EOLhyphen"/>ans; to which is added, a Sermon preached at his late Majeſties Inauguration, by <hi>Thomas Fuller</hi> B. D. <hi>in octavo.</hi> at 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+               <pb facs="tcp:123653:30"/>
+               <item>5 A deſcription of the ſeveral Counties and Shires of <hi>England,</hi> by <hi>Ed. Leigh</hi> Eſq; Mr. of Arts of both Univerſities, very uſeful for Travellers.</item>
+               <item>6 The Compleat Attorney, fifth and laſt Edi<g ref="char:EOLhyphen"/>tion, in <hi>octavo.</hi>
+               </item>
+               <item>7 The baptiſed <hi>Turk,</hi> ſhewing his happy con<g ref="char:EOLhyphen"/>verſion from the deluſion of that great Impoſter <hi>Mahomet</hi> unto the Chriſtian Religion, by Mr. <hi>Gun<g ref="char:EOLhyphen"/>ning</hi> at <hi>Exeter</hi> Houſe Chappell the fifth of <hi>No<g ref="char:EOLhyphen"/>vember,</hi> publiſhed by <hi>Tho. Warmſtrey</hi> D. D. in <hi>octavo.</hi>
+               </item>
+               <item>8 <hi>John quarls</hi>'s laſt Poems, in <hi>octavo.</hi>
+               </item>
+               <item>9 The <hi>Crafty Whore,</hi> or the myſtery and iniquity of Bawdy houſes laid open, with dehorracions from Luſt, drawn from the ſad and lamentable conſequences it produceth, publiſhed for the good of young Men, by <hi>R. H.</hi> Eſq; in <hi>Octavo.</hi>
+               </item>
+               <item>10 That excellent piece, <hi>Scutum Regale,</hi> the Royall Buckler, or <hi>Vox Legis,</hi> A Lecture to Tray<g ref="char:EOLhyphen"/>tors, who moſt wickedly murthered <hi>Charles</hi> the I. and contrary to all Law and Religion, baniſhed <hi>Charles</hi> the II. third Monarch of Great <hi>Britain,</hi> by <hi>Giles Duncomb</hi> of the Middle Temple, Gent.</item>
+               <item>11 The compleat Hiſtory of the Wars in <hi>Scot<g ref="char:EOLhyphen"/>land,</hi> under the conduct of the illuſtrious and truly valiant <hi>James</hi> Marqueſs of <hi>Montroſs,</hi> General for his Majeſty <hi>Charles</hi> the I. in that Kingdome: as alſo a true relation of his forreign Negotiati<g ref="char:EOLhyphen"/>ons, Landing, Defeat, Apprehenſion, Tryall, and deplorable Death, for being faithfull to his Sacred Majeſty <hi>Charles</hi> the II. 1660.</item>
+               <item>12 <hi>Shimei</hi>'s Curſes on King <hi>David</hi> lighting on himſelf; or Experimentall Obſervations of Gods ſevere and juſt Judgements upon Murtherers and
+<pb facs="tcp:123653:31"/>Traytors, being comparative meditations of the ſufferings of King <hi>David,</hi> and his late Sacred Ma<g ref="char:EOLhyphen"/>jeſty, by <hi>R. H.</hi> Eſq; in <hi>octavo.</hi>
+               </item>
+               <item>13 The Fathers Bleſſing and laſt Legacy to his Son, containing many excellent Inſtructions for Age and Youth, firſt written for the inſtruction of his Son, and now made publick for the benefit of others, by <hi>Edward Burton</hi> Eſq; in <hi>twelves.</hi>
+               </item>
+               <item>14 The High Court of Juſtice erected and de<g ref="char:EOLhyphen"/>tected by <hi>Tho. Baker</hi> Parſon ſequeſtred, in <hi>twelves.</hi>
+               </item>
+               <item>15 The RUMP, or a Collection of ſuch Songs and Ballads as were made upon thoſe who would be a Parliament, and were but the Rump of a Houſe of Commons, five times diſ<g ref="char:EOLhyphen"/>ſolved, and now publiſhed, bp <hi>J. B.</hi> 1660. <hi>in octavo.</hi>
+               </item>
+               <item>16 A ſhort View of the Life and Actions of the moſt Illuſtrious <hi>James</hi> Duke of <hi>York;</hi> together with his Character.</item>
+               <item>17 Hiſtory compleated or the Life of his Sa<g ref="char:EOLhyphen"/>cred Majeſty <hi>Charles</hi> the II. in three Books; wherein is interwoven a ſhort view of the Life and Actions of the Illuſtrious Dukes of <hi>York</hi> and <hi>Glo<g ref="char:EOLhyphen"/>ceſter,</hi> in <hi>large octavo,</hi> price 1 <hi>s.</hi> 6 <hi>d.</hi>
+               </item>
+            </list>
+            <pb facs="tcp:123653:31"/>
+         </div>
+      </back>
+   </text>
+</TEI>
